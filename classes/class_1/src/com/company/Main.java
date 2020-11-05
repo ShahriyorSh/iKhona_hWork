@@ -7,14 +7,11 @@ public class Main {
             Numbers n = new Numbers();
             n.a = 10;
             n.b = 90;
+
             n.printNumbers();
 
             n.sum();
 
             n.findBigNumber();
-
-
-
-
     }
 }
