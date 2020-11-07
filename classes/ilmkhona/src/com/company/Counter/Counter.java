@@ -1,4 +1,4 @@
-package com.company.Coubter;
+package com.company.Counter;
 
 public class Counter {
 
